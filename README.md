@@ -4,6 +4,7 @@ Purpose of this repo is to experiment with OpenQASM and IBM's Q experience platf
 ## Goals
 
 * Using [this](https://github.com/QISKit/qiskit-sdk-py) SDK creating our first Quantum Program
+* Implement a Grover's algorithm
 
 ## Prerequisites
 
